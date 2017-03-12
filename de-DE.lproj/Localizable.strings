@@ -24,7 +24,7 @@
 "enable-app-restore" = "App-Benutzerdaten löschen";
 "enable-dismiss-switcher" = "Switcher ausblenden";
 "blacklisted-apps" = "Ausgeschlossene Apps";
-"blacklisted-apps-detail" = "Alle ausgewählten Apps werden von der 'App schließen' funktion ausgeschlossen.";
+"blacklisted-apps-detail" = "Alle ausgewählten Apps werden von der 'App schließen' Funktion ausgeschlossen.";
 "dragmedown-menu" = "DragMeDown Menü";
 "dragmedown-menu-detail" = "Sie können das DragMeDown Menü anpassen. Wählen Sie die anzuzeigenden Optionen aus.";
 "slider-time" = "Empfindlichkeit";
