@@ -60,7 +60,7 @@
 "success-appcache-delete" = "Der App-Cache wurde geleert!";
 "failed-appdata-delete" = "Anwendungs- und Benutzerdaten dieser App können nicht gelöscht werden!";
 "success-appdata-delete" = "Alle Applikations- und Benutzerdaten wurden gelöscht! Die App steht zur Einrichtung bereit!";
-"reset-settings-message" = "Zurücksetzen abgeschlossen! Sie können DragMeDown nun wieder angepassen!";
+"reset-settings-message" = "Zurücksetzen abgeschlossen! Sie können DragMeDown nun wieder anpassen!";
 "failed-to-connect-server" = "Verbindung zum Zahlungs-Server fehlgeschlagen!";
 "appbadge-cleared" = "Benachrichtigungszähler wurde zurückgesetzt!";
 "buy-popup" = "Um dieses Paket zu verwenden müssen Sie es kaufen. Wollen Sie es jetzt kaufen?";
